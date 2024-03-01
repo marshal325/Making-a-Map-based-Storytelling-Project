@@ -1,0 +1,65 @@
+{
+    "SeattleLandmarks": [
+      {
+        "name": "Space Needle",
+        "latitude": "47.6205",
+        "longitude": "-122.3493",
+        "description": "An iconic observation tower in Seattle, offering panoramic views of the surrounding area, including downtown Seattle, Mount Rainier, Puget Sound, and the Olympic and Cascade Mountains."
+      },
+      {
+        "name": "Pike Place Market",
+        "latitude": "47.6094",
+        "longitude": "-122.3415",
+        "description": "A historic public market overlooking the Elliott Bay waterfront in Seattle. Famous for its fresh produce, seafood, specialty foods, and independent businesses."
+      },
+      {
+        "name": "Fremont Troll",
+        "latitude": "47.6510",
+        "longitude": "-122.3473",
+        "description": "A large, whimsical public sculpture situated under the north end of the George Washington Memorial Bridge, symbolizing Seattle's creative and quirky culture."
+      },
+      {
+        "name": "Seattle Art Museum",
+        "latitude": "47.6073",
+        "longitude": "-122.3381",
+        "description": "Located in downtown Seattle, it's known for its significant collections of Asian, African, and Native American art, as well as modern and contemporary art pieces."
+      },
+      {
+        "name": "Smith Tower",
+        "latitude": "47.6019",
+        "longitude": "-122.3321",
+        "description": "Once the tallest building west of the Mississippi River, this historic skyscraper features an observation deck with stunning views of Seattle."
+      },
+      {
+        "name": "Kerry Park",
+        "latitude": "47.6295",
+        "longitude": "-122.3598",
+        "description": "Famous for its sweeping views of downtown Seattle, the Space Needle, Elliott Bay, and Mount Rainier on a clear day."
+      },
+      {
+        "name": "Museum of Flight",
+        "latitude": "47.5180",
+        "longitude": "-122.2960",
+        "description": "One of the largest air and space museums in the world, featuring an extensive collection of aircraft, spacecraft, and related artifacts."
+      },
+      {
+        "name": "Pioneer Square",
+        "latitude": "47.6020",
+        "longitude": "-122.3338",
+        "description": "Seattle's historic heart with Romanesque Revival architecture, known for its art galleries, boutiques, and bustling nightlife."
+      },
+      {
+        "name": "Hiram M. Chittenden Locks",
+        "latitude": "47.6663",
+        "longitude": "-122.3980",
+        "description": "Also known as the Ballard Locks, these locks provide a link for boats between the Puget Sound and the Ship Canal, which connects eastward to Lake Union and Lake Washington."
+      },
+      {
+        "name": "Seattle Waterfront",
+        "latitude": "47.6050",
+        "longitude": "-122.3404",
+        "description": "A vibrant area with attractions such as the Seattle Great Wheel, aquarium, shops, and restaurants, offering stunning views of Elliott Bay."
+      }
+    ]
+  }
+  
