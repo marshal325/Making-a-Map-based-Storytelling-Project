@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Discover Seattle: The Emerald City</title>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+    <link href='css/style.css' rel='stylesheet' /> 
+</head>
+<body>
+    <div id="cover-video">
+        <div id="video-description">
+            <img src="assets/icons8-space-needle-100.png" width="50">
+            <h1>Discover Seattle: The Emerald City</h1>
+            <h3>Explore the Vibrant Heart of the Pacific Northwest</h3>
+            <p>Welcome to our interactive journey through Seattle, a city nestled between the saltwater Puget Sound to the west and the freshwater Lake Washington to the east. Known for its lush landscapes, innovative spirit, and rich cultural tapestry, Seattle offers a unique blend of natural beauty and urban sophistication. This digital experience invites you to explore the iconic landmarks, hidden gems, and the personal favorites that make Seattle a must-visit destination.</p>
+            <p>Lab 7 Shuai Yuan</p>
+        </div>
+        <video autoplay muted loop style="width: 100vw;">
+            <source src="assets/covervideo.mp4" type="video/mp4">
+            您的浏览器不支持视频标签。
+        </video>
+
+    </div>
+
+<div id="map"></div>
+
+<div class="step" data-center='[-122.4221, 47.6062]' data-zoom="10" data-scene="0">
+
+</div>
+<div class="step" data-center='[-122.4221, 47.6062]' data-zoom="10" data-scene="1">
+    <h2>1 Seattle</h2>
+    <p>Seattle, a dynamic city on the northwest coast of the United States, is often characterized by its stunning natural surroundings, innovative tech scene, and vibrant cultural life. From the iconic Space Needle that defines its skyline to the bustling Pike Place Market, the city is a hub of activity and exploration. Seattle's rich musical heritage, diverse culinary offerings, and numerous parks and museums offer something for every traveler. Embark on this virtual tour to discover what makes Seattle, also known as the Emerald City, a jewel of the Pacific Northwest.</p>
+</div>
+<div class="step" data-center='[-122.3621, 47.6062]' data-zoom="12" data-scene="2">
+    <h2>2 Top 10 Tourist Attractions in Seattle</h2>
+    <div id="attractions">
+        <div id="attractions">
+            <div class="step attraction" data-center='[-122.3493, 47.6205]' data-zoom="17"> 
+                <p><b>Space Needle</b></p> 
+            </div>
+            <div class="step attraction" data-center='[-122.3415, 47.6094]' data-zoom="17">
+                <p><b>Pike Place Market</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3473, 47.6510]' data-zoom="17">
+                <p><b>Fremont Troll</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3381, 47.6073]' data-zoom="17">
+                <p><b>Seattle Art Museum</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3321, 47.6019]' data-zoom="17">
+                <p><b>Smith Tower</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3598, 47.6295]' data-zoom="17">
+                <p><b>Kerry Park</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.2960, 47.5180]' data-zoom="17">
+                <p><b>Museum of Flight</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3338, 47.6020]' data-zoom="17">
+                <p><b>Pioneer Square</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3980, 47.6663]' data-zoom="17">
+                <p><b>Hiram M. Chittenden Locks</b></p>
+            </div>
+            <div class="step attraction" data-center='[-122.3404, 47.6050]' data-zoom="17">
+                <p><b>Seattle Waterfront</b></p>
+            </div>
+        </div>
+        
+</div>
+</div>
+
+<div class="step" data-center='[-122.3415, 47.6094]' data-zoom="18" data-scene="3">
+    <h2>3 My Favorite Seattle Attractions</h2>
+    <p><strong><em><span style="color: #29B6E2;">Pike Place Market</span></em></strong> in Seattle is my favorite spot. It's more than a market; it's where the city's heart beats. The mix of fresh seafood, handmade goods, and lively atmosphere showcases Seattle's rich history and diverse culture. Every visit offers a sensory feast, from the vibrant sights to the blend of scents and sounds. It's a place that truly represents the Seattle spirit, making each visit memorable.</p></div>
+</div>
+<div id="image-container" class="hidden">
+    <img src="assets/jeana-bala-m_bhleL3T08-unsplash.jpg" id="image1" class="scene-image">
+    <img src="assets/ryan-stone-VnZMKbXrA0I-unsplash.jpg" id="image2" class="scene-image">
+</div>
+
+<div class="step"  data-scene="4" data-center='[-122.4221, 47.6062]' data-zoom="10">
+    <h1>Welcome to Seattle</h1>
+    <img src="assets/damien-robin-Ef7YlDOVTZw-unsplash 1.png" width="100%" alt="">
+    <p>Created by Shuai Yuan</p>
+</div>
+
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+<script src="https://unpkg.com/scrollama"></script>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
