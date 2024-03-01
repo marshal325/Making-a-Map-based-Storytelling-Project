@@ -15,4 +15,4 @@
 - We've also included a variety of resources to enhance your visit, from local dining recommendations to cultural events and entertainment options, ensuring that you have a comprehensive understanding of what to see, do, and experience in Seattle. Whether you're planning your first visit or you're a seasoned local looking to rediscover your city, our website is your one-stop destination for all things Seattle.
 
 ![Map Image](https://github.com/marshal325/Making-a-Map-based-Storytelling-Project/blob/main/img/Map5.png)
-Join us on this adventure and unlock all the amazing experiences Seattle has to offer, all through our comprehensive and easy-to-navigate website. Explore, learn, and be inspired as you navigate through our website, your ultimate guide to the Emerald City.
+- Join us on this adventure and unlock all the amazing experiences Seattle has to offer, all through our comprehensive and easy-to-navigate website. Explore, learn, and be inspired as you navigate through our website, your ultimate guide to the Emerald City.
